@@ -1,0 +1,2 @@
+# Early-Coronary-Heart-Disease-Prediction-Using-Boruta-and-Smote
+This project aims to develop a machine learning model to predict early coronary heart disease using the Boruta feature selection algorithm and the SMOTE (Synthetic Minority Over-sampling Technique) algorithm for handling imbalanced data. The goal is to provide a tool that can assist in the early detection and prevention of coronary heart disease.
